@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 50" fill="none" stroke="#0b5c43" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="UAE Rental Car logo">
+  <!-- speed lines -->
+  <path d="M5 23h15"/>
+  <path d="M2 29h12"/>
+  <path d="M8 35h10"/>
+  <!-- sleek sports car body, side profile facing right -->
+  <path d="M26 33 L26 28 Q26 26 28 25.5 L40 24 Q48 15.5 60 15 Q76 14.5 90 21 L104 28 Q108 29.5 108 32 L108 33.5"/>
+  <!-- window divider -->
+  <path d="M60 15.5 L59 24"/>
+  <!-- wheels -->
+  <circle cx="46" cy="33.5" r="6"/>
+  <circle cx="88" cy="33.5" r="6"/>
+  <circle cx="46" cy="33.5" r="1.5" fill="#0b5c43" stroke="none"/>
+  <circle cx="88" cy="33.5" r="1.5" fill="#0b5c43" stroke="none"/>
+  <!-- gold swoosh underline -->
+  <path d="M28 43 Q64 49 104 41" stroke="#c9a227" stroke-width="2.6"/>
+</svg>

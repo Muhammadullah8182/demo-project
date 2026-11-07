@@ -1,0 +1,20 @@
+{
+  "name": "uae-rental-car-nextjs-full",
+  "version": "1.0.0",
+  "description": "UAE Rental Car — full dashboard-control Next.js server app (uaerentcar.com). MySQL-backed, runs on cPanel Node.js App.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.24.6",
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
